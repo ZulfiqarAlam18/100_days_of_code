@@ -1,0 +1,35 @@
+
+Dynamically Typed: 
+Python determines the type of a variable at runtime, which means you don't need to declare the type of a variable when writing your code.
+
+Interpreted: 
+Python code is executed line-by-line by the Python interpreter, which makes debugging easier and allows for rapid prototyping.
+
+High-Level Language: 
+Python abstracts away most of the complex details of the computer’s hardware, allowing you to focus on programming logic rather than low-level details.
+
+Portable: 
+Python code can run on any operating system with a compatible interpreter (Windows, macOS, Linux, etc.) without modification.
+
+Object-Oriented: Python supports object-oriented programming (OOP), which allows you to create classes and objects, promoting code reuse and modularity.
+
+Extensible: Python allows you to write some of your code in other languages like C or C++, which can be useful for performance-critical sections.
+
+Embeddable: You can embed Python within C/C++ programs to provide scripting capabilities within the program.
+
+Rich Standard Library: Python comes with a vast standard library that includes modules for various tasks such as file I/O, system calls, and web development, which reduces the need for writing code from scratch.
+
+Readable: Python’s syntax is designed to be clear and readable, making it easy to understand and write, even for beginners.
+
+Cross-Platform: Python supports cross-platform development, meaning a Python program written on one operating system can often be run on another without modification.
+
+Free and Open Source: Python is free to use and distribute, even for commercial purposes. Its source code is open and available for modification and distribution.
+
+Interpreted Language: Python code is executed directly by the interpreter, which avoids the need for a compilation step and makes the development process faster.
+
+Supports Multiple Paradigms: Python supports multiple programming paradigms, including procedural, object-oriented, and functional programming.
+
+Dynamic Memory Allocation: Python manages memory automatically by allocating and deallocating memory as needed, reducing the likelihood of memory leaks and other related issues.
+
+GUI Programming Support: Python has several libraries (such as Tkinter, PyQt, and Kivy) that allow you to create graphical user interfaces (GUIs) for your applications.
+

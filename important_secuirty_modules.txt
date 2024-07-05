@@ -1,0 +1,20 @@
+Scapy: A powerful packet manipulation tool for network discovery, packet sniffing, and network attack scripting.
+Requests: Used for making HTTP requests to interact with web applications and APIs.
+BeautifulSoup: A library for web scraping to extract data from HTML and XML documents.
+Selenium: Automates web browsers, often used for web application testing and scraping.
+Nmap (python-nmap): A Python binding for Nmap, a popular network scanning tool.
+PyCrypto: Provides cryptographic modules for secure communication and data encryption.
+Cryptography: A comprehensive library for cryptographic operations like encryption, decryption, and key management.
+Impacket: A collection of Python classes for working with network protocols.
+Twisted: An event-driven networking engine used for creating network applications.
+Paramiko: A library for making SSH connections and performing remote server operations.
+pwntools: A CTF framework and exploit development library.
+sqlmap: An open-source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws.
+Metasploit (msfrpc): A Python library to interact with the Metasploit Framework via its RPC interface.
+Sublist3r: A tool designed to enumerate subdomains of websites using OSINT.
+Shodan (shodan): A library to interact with the Shodan API for searching devices connected to the internet.
+Volatility: An advanced memory forensics framework.
+Yara-python: A Python binding for YARA, a tool for identifying and classifying malware.
+dnspython: A DNS toolkit for Python to perform DNS queries and resolve hostnames.
+Pylibnet: A Python library for network packet construction and injection.
+Socket: A module to create network connections and handle low-level network interfaces.
