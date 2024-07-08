@@ -1,0 +1,13 @@
+try:
+    count = 1
+    total_cost = 0
+    no_of_items = int(input("Enter number of items:"))
+    while count <= no_of_items:
+        price = int(input(f"Enter price of item no.{count} :"))
+        total_cost += price
+        count += 1
+    print("Total cost: ", total_cost)
+except ZeroDivisionError:
+    print("Input Error")
+        
+
