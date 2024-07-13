@@ -1,0 +1,11 @@
+
+# Modules: A single file like (typescasting.py) that is imported
+eg : math, os, random, datetime
+#Packages: Collection of related modules that are arranged in a heirarchical manner
+eg : requests
+#Framworks: A framework is a collection of libraries and tools that provide a foundation 
+on which software developers can build programs for a specific platform.
+eg : django , flask, pytorch , Fast api
+
+#Libararies: Collection of packages and modules 
+eg : matplotlib , beautifulsoup,tensorflow
