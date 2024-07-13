@@ -8,4 +8,7 @@ on which software developers can build programs for a specific platform.
 eg : django , flask, pytorch , Fast api
 
 #Libararies: Collection of packages and modules 
-eg : matplotlib , beautifulsoup,tensorflow
+eg : matplotlib , beautifulsoup,tensorflow, pandas , flast , fastapi , pytorch
+
+
+Easy way ----> Framworks > Libararies > Packages > Modules
