@@ -17,4 +17,4 @@ Collection of packages and modules
 eg : matplotlib , beautifulsoup,tensorflow, pandas , flast , fastapi , pytorch
 
 
-Easy way ----> Framworks > Libararies > Packages > Modules
+Easy way ----> Framworks > Libararies > Packages > Modules (Only for better understanding)
